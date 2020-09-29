@@ -1,0 +1,11 @@
+Part-B: Fill in the Blanks(Solutions)
+
+1. decrease
+2. Non-linear, classification, decrease
+3. regression
+4. testing, training
+5. from -1 to 256
+
+
+
+
